@@ -1,0 +1,19 @@
+{
+  "title": "Learn React Native!",
+  "type": "TRACKER_CARD",
+  "cardStatus": {
+    "frequency": 1,
+    "duration": 14,
+    "startDate": 1717524626232,
+    "completedToday": true
+  },
+  "cardStyling": {
+    "bgColor": 5
+  },
+  "objectStatus": {
+    "completionStatus": [true, true, true, true, true]
+  },
+  "goal": "To master React Native",
+  "difficulty": 5,
+  "completed": false
+}
