@@ -1,18 +1,15 @@
-import { StatusBar } from 'expo-status-bar';
-import {StyleSheet, Text, View} from 'react-native';
+import {StyleSheet, Text, View, StatusBar} from 'react-native';
 
 import MainStyle from "./styles/MainStyle";
-import appWindow from "./components/AppWindow";
-import AppWindow from "./components/AppWindow";
+import appWindow from "./components/PersonalTaskWindow";
+import PersonalTaskWindow from "./components/PersonalTaskWindow";
 
 export default function App() {
   return (
       //The wrapper will vary across platform
-    <View style={{marginTop: 20}}>
-
-      <Text>Open up App.js to start working on your app!</Text>
+    <View style={{paddingTop: StatusBar.currentHeight}}>
       <StatusBar style="auto" />
-        <AppWindow></AppWindow>
+        <PersonalTaskWindow></PersonalTaskWindow>
     </View>
   );
 }

@@ -1,19 +1,19 @@
 {
-  "title": "Learn React Native!",
+  "cardTitle": "Learn React Native!",
   "type": "TRACKER_CARD",
-  "cardStatus": {
+  "specialStatus": {
     "frequency": 1,
     "duration": 14,
-    "startDate": 1717524626232,
-    "completedToday": true
+    "completedToday": true,
+    "completionStatus": [true, true, true, true, true],
+    "precision": "loose"
   },
+  "startDate": 1717524626232,
   "cardStyling": {
     "bgColor": 5
   },
-  "objectStatus": {
-    "completionStatus": [true, true, true, true, true]
-  },
   "goal": "To master React Native",
   "difficulty": 5,
-  "completed": false
+  "completed": false,
+  "description": "I will learn react native every single day"
 }
