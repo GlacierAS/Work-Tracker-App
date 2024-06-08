@@ -1,5 +1,101 @@
 [
   {
+    "key": 1,
+    "cardTitle": "Learn React Native! 1",
+    "type": "TRACKER_CARD",
+    "specialStatus": {
+      "frequency": 1,
+      "duration": 14,
+      "completedToday": true,
+      "completionStatus": [true, true, true, true, true]
+    },
+    "startDate": 1717524626232,
+    "cardStyling": {
+      "bgColor": 5
+    },
+    "goal": "To master React Native",
+    "difficulty": 5,
+    "completed": false,
+    "description": "I will learn react native every single day"
+  },
+  {
+    "key": 2,
+    "cardTitle": "Learn React Native! 2",
+    "type": "TRACKER_CARD",
+    "specialStatus": {
+      "frequency": 1,
+      "duration": 14,
+      "completedToday": true,
+      "completionStatus": [true, true, true, true, true]
+    },
+    "startDate": 1717524626232,
+    "cardStyling": {
+      "bgColor": 5
+    },
+    "goal": "To master React Native",
+    "difficulty": 5,
+    "completed": false,
+    "description": "I will learn react native every single day"
+  },
+  {
+    "key": 3,
+    "cardTitle": "Learn React Native! 3",
+    "type": "TRACKER_CARD",
+    "specialStatus": {
+      "frequency": 1,
+      "duration": 14,
+      "completedToday": true,
+      "completionStatus": [true, true, true, true, true]
+    },
+    "startDate": 1717524626232,
+    "cardStyling": {
+      "bgColor": 5
+    },
+    "goal": "To master React Native",
+    "difficulty": 5,
+    "completed": false,
+    "description": "I will learn react native every single day"
+  },
+  {
+    "key": 4,
+    "cardTitle": "Learn React Native! 4",
+    "type": "TRACKER_CARD",
+    "specialStatus": {
+      "frequency": 1,
+      "duration": 14,
+      "completedToday": true,
+      "completionStatus": [true, true, true, true, true]
+    },
+    "startDate": 1717524626232,
+    "cardStyling": {
+      "bgColor": 5
+    },
+    "goal": "To master React Native",
+    "difficulty": 5,
+    "completed": false,
+    "description": "I will learn react native every single day"
+  },
+  {
+    "key": 5,
+    "cardTitle": "Learn React Native! 5",
+    "type": "TRACKER_CARD",
+    "specialStatus": {
+      "frequency": 1,
+      "duration": 14,
+      "completedToday": true,
+      "completionStatus": [true, true, true, true, true]
+    },
+    "startDate": 1717524626232,
+    "cardStyling": {
+      "bgColor": 5
+    },
+    "goal": "To master React Native 6",
+    "difficulty": 5,
+    "completed": false,
+    "description": "I will learn react native every single day"
+  },
+  {
+    "key": 6,
     "cardTitle": "Learn React Native!",
     "type": "TRACKER_CARD",
     "specialStatus": {
@@ -18,7 +114,8 @@
     "description": "I will learn react native every single day"
   },
   {
-    "cardTitle": "Learn React Native!",
+    "key": 7,
+    "cardTitle": "Learn React Native! 7",
     "type": "TRACKER_CARD",
     "specialStatus": {
       "frequency": 1,
@@ -36,7 +133,8 @@
     "description": "I will learn react native every single day"
   },
   {
-    "cardTitle": "Learn React Native!",
+    "key": 8,
+    "cardTitle": "Learn React Native! 8",
     "type": "TRACKER_CARD",
     "specialStatus": {
       "frequency": 1,
@@ -54,7 +152,8 @@
     "description": "I will learn react native every single day"
   },
   {
-    "cardTitle": "Learn React Native!",
+    "key": 9,
+    "cardTitle": "Learn React Native! 9",
     "type": "TRACKER_CARD",
     "specialStatus": {
       "frequency": 1,
@@ -72,97 +171,8 @@
     "description": "I will learn react native every single day"
   },
   {
-    "cardTitle": "Learn React Native!",
-    "type": "TRACKER_CARD",
-    "specialStatus": {
-      "frequency": 1,
-      "duration": 14,
-      "completedToday": true,
-      "completionStatus": [true, true, true, true, true]
-    },
-    "startDate": 1717524626232,
-    "cardStyling": {
-      "bgColor": 5
-    },
-    "goal": "To master React Native",
-    "difficulty": 5,
-    "completed": false,
-    "description": "I will learn react native every single day"
-  },
-  {
-    "cardTitle": "Learn React Native!",
-    "type": "TRACKER_CARD",
-    "specialStatus": {
-      "frequency": 1,
-      "duration": 14,
-      "completedToday": true,
-      "completionStatus": [true, true, true, true, true]
-    },
-    "startDate": 1717524626232,
-    "cardStyling": {
-      "bgColor": 5
-    },
-    "goal": "To master React Native",
-    "difficulty": 5,
-    "completed": false,
-    "description": "I will learn react native every single day"
-  },
-  {
-    "cardTitle": "Learn React Native!",
-    "type": "TRACKER_CARD",
-    "specialStatus": {
-      "frequency": 1,
-      "duration": 14,
-      "completedToday": true,
-      "completionStatus": [true, true, true, true, true]
-    },
-    "startDate": 1717524626232,
-    "cardStyling": {
-      "bgColor": 5
-    },
-    "goal": "To master React Native",
-    "difficulty": 5,
-    "completed": false,
-    "description": "I will learn react native every single day"
-  },
-  {
-    "cardTitle": "Learn React Native!",
-    "type": "TRACKER_CARD",
-    "specialStatus": {
-      "frequency": 1,
-      "duration": 14,
-      "completedToday": true,
-      "completionStatus": [true, true, true, true, true]
-    },
-    "startDate": 1717524626232,
-    "cardStyling": {
-      "bgColor": 5
-    },
-    "goal": "To master React Native",
-    "difficulty": 5,
-    "completed": false,
-    "description": "I will learn react native every single day"
-  },
-  {
-    "cardTitle": "Learn React Native!",
-    "type": "TRACKER_CARD",
-    "specialStatus": {
-      "frequency": 1,
-      "duration": 14,
-      "completedToday": true,
-      "completionStatus": [true, true, true, true, true]
-    },
-    "startDate": 1717524626232,
-    "cardStyling": {
-      "bgColor": 5
-    },
-    "goal": "To master React Native",
-    "difficulty": 5,
-    "completed": false,
-    "description": "I will learn react native every single day"
-  },
-  {
-    "cardTitle": "Learn React Native!",
+    "key": 10,
+    "cardTitle": "Learn React Native! 10",
     "type": "TRACKER_CARD",
     "specialStatus": {
       "frequency": 1,

@@ -75,7 +75,7 @@ class Card extends Component {
     render() {
         return (
             //TODO: change model text to fetched text
-            <Pressable onPress={() => this.props.setModel('ModelText')}>
+            <Pressable onPress={() => this.props.setModel('ModelText')} onLongPress={this.props.onLongPress}>
                 <LinearGradient style={cardStyles.cardViewContainer} colors={this.state.bgColor} start={{x: 0, y: 0}}
                                 end={{x:1, y: 1}}>
                     {/*title*/}
