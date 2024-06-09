@@ -78,7 +78,6 @@ class Card extends Component {
             <Pressable onPress={() => this.props.setModel('ModelText')} onLongPress={this.props.onLongPress}>
                 <LinearGradient style={cardStyles.cardViewContainer} colors={this.state.bgColor} start={{x: 0, y: 0}}
                                 end={{x:1, y: 1}}>
-                    {/*title*/}
                     <Text style={cardStyles.cardTitleText}>{this.state.cardTitle}</Text>
 
                     {/*special tag depends on card type*/}

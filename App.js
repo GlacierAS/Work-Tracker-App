@@ -5,8 +5,12 @@ import {NavigationContainer} from "@react-navigation/native"
 
 import MainStyle from "./styles/MainStyle";
 import appWindow from "./components/PersonalTaskWindow";
-import PersonalTaskWindow from "./components/PersonalTaskWindow";
 import {GestureHandlerRootView} from "react-native-gesture-handler";
+
+//Tabs
+import PersonalTaskWindow from "./components/PersonalTaskWindow";
+import CreateTaskTrackerCard from "./components/CreateTaskTrackerCard";
+import creatCardScreen from "./components/CreatCardScreen";
 
 export default function App() {
     const Tab = createBottomTabNavigator()
@@ -17,12 +21,16 @@ export default function App() {
             <NavigationContainer>
                 <Tab.Navigator screenOptions={{ headerShown: false }}>
                     <Tab.Screen name={"My Tasks"} component={PersonalTaskWindow} />
-                    <Tab.Screen name={"Task 2"} component={PersonalTaskWindow} />
+                    <Tab.Screen name={"Create New Task"} component={creatCardScreen} />
                 </Tab.Navigator>
             </NavigationContainer>
             <StatusBar style="auto" />
 
         </GestureHandlerRootView>
+
+        // <NavigationContainer>
+        //
+        // </NavigationContainer>
     );
 }
 
