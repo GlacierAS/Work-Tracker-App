@@ -36,7 +36,6 @@ const PersonalTaskWindow = () => {
             <ScaleDecorator>
                 <Card bgColor={getWhiteTint(4)} cardData={item} setModel={setModal} onLongPress={drag}/>
             </ScaleDecorator>
-
         )
     }
 

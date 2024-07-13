@@ -1,4 +1,5 @@
 import {Platform, StyleSheet} from "react-native";
+import {RFPercentage} from "react-native-responsive-fontsize";
 
 export default StyleSheet.create({
     cardViewContainer: {
@@ -28,13 +29,13 @@ export default StyleSheet.create({
         })
     },
     cardTitleText: {
-        fontSize: 32,
+        fontSize: RFPercentage(3.8),
         fontWeight: '400',
         padding:10,
         paddingBottom: 20
     },
     cardStatusText: {
-        fontSize: 20,
+        fontSize: RFPercentage(2.5),
         fontWeight: '300',
         alignSelf: 'flex-end',
         paddingRight: 15
